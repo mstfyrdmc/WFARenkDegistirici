@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\bin\Debug\RenkDegistirici.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\bin\Debug\RenkDegistirici.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\bin\Debug\RenkDegistirici.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\RenkDegistirici\RenkDegistirici\obj\Debug\RenkDegistirici.pdb
